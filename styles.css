@@ -1,0 +1,36 @@
+@charset "utf-8";
+#header { padding:20px; font-family:"Arial Black", Gadget, sans-serif; text-align:center; font-size:18px;
+color:#099; background-color:#014;
+}
+#content{ margin-left:200px; margin-right:200px; margin-top:20px;
+	}
+.errormessage{ text-align:center;
+margin-left:50px;
+margin-right:50px;
+padding:20px;
+color:#f00;
+border: 2px solid #f33;
+	background-color: #fdd;
+	font-weight: bold;
+	}
+
+.successmessage{
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+	color: #093;
+	border: 2px solid #161;
+	background-color: #bfb;
+	font-weight: bold;
+}
+.tableheading {
+	text-align: center;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #000;
+}
+.logo{ float:left; padding:10px; position:fixed; margin:20px;
+	}
+.header{
+	}
